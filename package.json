@@ -16,5 +16,8 @@
     "url": "https://github.com/Qiuziyou1015/node.js/issues"
   },
   "homepage": "https://github.com/Qiuziyou1015/node.js#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
